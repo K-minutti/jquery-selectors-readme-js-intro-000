@@ -1,3 +1,21 @@
 // declare your functions here...
 
-$('#baby-ninja')
+function paragraphSelector {
+  
+}
+
+function lastImageSelector {
+  
+}
+
+function ninjaBabySelector {
+  
+}
+
+function divSelector {
+  
+}
+
+function firstListItem {
+  
+}
